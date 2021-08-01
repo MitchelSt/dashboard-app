@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dashboard-app/static/css/main.5079c9e3.chunk.css",
+    "main.js": "/dashboard-app/static/js/main.6793ad00.chunk.js",
+    "main.js.map": "/dashboard-app/static/js/main.6793ad00.chunk.js.map",
+    "runtime-main.js": "/dashboard-app/static/js/runtime-main.2b4cc9c3.js",
+    "runtime-main.js.map": "/dashboard-app/static/js/runtime-main.2b4cc9c3.js.map",
+    "static/js/2.f262cf56.chunk.js": "/dashboard-app/static/js/2.f262cf56.chunk.js",
+    "static/js/2.f262cf56.chunk.js.map": "/dashboard-app/static/js/2.f262cf56.chunk.js.map",
+    "static/js/3.4492497e.chunk.js": "/dashboard-app/static/js/3.4492497e.chunk.js",
+    "static/js/3.4492497e.chunk.js.map": "/dashboard-app/static/js/3.4492497e.chunk.js.map",
+    "index.html": "/dashboard-app/index.html",
+    "static/css/main.5079c9e3.chunk.css.map": "/dashboard-app/static/css/main.5079c9e3.chunk.css.map",
+    "static/js/2.f262cf56.chunk.js.LICENSE.txt": "/dashboard-app/static/js/2.f262cf56.chunk.js.LICENSE.txt",
+    "static/media/cartIcon.ad31a888.svg": "/dashboard-app/static/media/cartIcon.ad31a888.svg",
+    "static/media/houseIcon.a0914e6a.svg": "/dashboard-app/static/media/houseIcon.a0914e6a.svg",
+    "static/media/transportIcon.654be71e.svg": "/dashboard-app/static/media/transportIcon.654be71e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4cc9c3.js",
+    "static/js/2.f262cf56.chunk.js",
+    "static/css/main.5079c9e3.chunk.css",
+    "static/js/main.6793ad00.chunk.js"
+  ]
+}
