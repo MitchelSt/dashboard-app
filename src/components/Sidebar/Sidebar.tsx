@@ -39,8 +39,7 @@ export default function Sidebar() {
                     }
                     to={`/${sidebarNavLink}`}
                   >
-                    {sidebarNavLink.charAt(0).toUpperCase() +
-                      sidebarNavLink.slice(1)}
+                    {sidebarNavLink}
                   </Link>
                 </li>
               ))}
